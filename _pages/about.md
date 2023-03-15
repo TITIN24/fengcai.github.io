@@ -45,4 +45,4 @@ My name is Feng Cai (Chinese: 蔡峰). I am now a 2nd-year postgraduate student 
 - *2017.09 - 2021.06*, Undergraduate, Fuzhou University, Fuzhou. 
 
 # 💻 Internships
-- I am actively looking for research internship opportunities (deep/machine learning for vision tasks) now. If you are interested, welcome to drop me an email (fcai21[at]m.fudan.edu). Thanks! 
+- I am actively looking for research internship opportunities (deep/machine learning for vision tasks) now. If you are interested, welcome to drop me an email (fcai21[at]m.fudan.edu.cn). Thanks! 
