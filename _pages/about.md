@@ -28,7 +28,7 @@ My name is Feng Cai (Chinese: 蔡峰). I am now a 2nd-year postgraduate student 
 
 # 📝 Publications 
 
-- [Continuous Knowledge Acquisition from Exam Papers: A Semi-Supervised Framework for Long-Tailed Classification.](https://github.com) Feng Cai, Ke-Yu Wu, Hai-Peng Wang, and Feng Wang, **CVPR workshop 2023 (under review)**
+- [Continuous Knowledge Acquisition from Exam Papers: A Semi-Supervised Framework for Long-Tailed Classification.](https://github.com) Feng Cai, Ke-Yu Wu, Hai-Peng Wang, and Feng Wang, **CVPR workshop 2023**
 - [SAR-NERF: A Paradigm for Novel View Synthesis based on SAR Scattering Imagery.](https://github.com), Zhen-Xin Lei, Feng Cai, and Feng Xu, **TIP 2023 (under review)**
 - [Remote Sensing Image Super-Resolution Via Attentional Feature Aggregation Generative Adversarial Network.](https://github.com) Feng Cai, Ke-Yu Wu, and Feng Wang, **IGARSS 2022**
 - [Rethinking Fine-grained Airport Extraction in Large-scale Complex Scenes via A Hybrid CNN-Transformer Framework.](https://github.com) Ke-Yu Wu, Feng Cai, and Hai-Peng Wang, **TGRS 2023 (under review)**
