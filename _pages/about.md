@@ -28,11 +28,11 @@ My name is Feng Cai (Chinese: 蔡峰). I am now a 2nd-year postgraduate student 
 
 # 📝 Publications 
 
-- [Continuous Knowledge Acquisition from Exam Papers: A Semi-Supervised Framework for Long-Tailed Classification.](https://github.com) Feng Cai, Ke-Yu Wu, Hai-Peng Wang, and Feng Wang, **CVPR workshop 2023**
-- [SAR-NERF: A Paradigm for Novel View Synthesis based on SAR Scattering Imagery.](https://github.com), Zhen-Xin Lei, Feng Cai, and Feng Xu, **TIP 2023 (under review)**
-- [Remote Sensing Image Super-Resolution Via Attentional Feature Aggregation Generative Adversarial Network.](https://github.com) Feng Cai, Ke-Yu Wu, and Feng Wang, **IGARSS 2022**
-- [Rethinking Fine-grained Airport Extraction in Large-scale Complex Scenes via A Hybrid CNN-Transformer Framework.](https://github.com) Ke-Yu Wu, Feng Cai, and Hai-Peng Wang, **TGRS 2023 (under review)**
-- [Super Resolution of Airplane Target in Remote Sensing Images via A Multi Degradation Model.](https://github.com) Feng Cai, Ke-Yu Wu, He-Cheng Jia, and Feng Wang, **ICAIT 2022**
+- [A Three-Stage Framework with Reliable Sample Pool for Long-Tailed Classification.](https://scholar.google.com/citations?user=Wq2aViYAAAAJ&hl=en) Feng Cai, Ke-Yu Wu, Hai-Peng Wang, and Feng Wang, **CVPR workshop 2023**
+- [SAR-NERF: A Paradigm for Novel View Synthesis based on SAR Scattering Imagery.](https://scholar.google.com/citations?user=Wq2aViYAAAAJ&hl=en), Zhen-Xin Lei, Feng Cai, and Feng Xu, **TIP 2023 (under review)**
+- [Remote Sensing Image Super-Resolution Via Attentional Feature Aggregation Generative Adversarial Network.](https://scholar.google.com/citations?user=Wq2aViYAAAAJ&hl=en) Feng Cai, Ke-Yu Wu, and Feng Wang, **IGARSS 2022**
+- [Rethinking Fine-grained Airport Extraction in Large-scale Complex Scenes via A Hybrid CNN-Transformer Framework.](https://scholar.google.com/citations?user=Wq2aViYAAAAJ&hl=en) Ke-Yu Wu, Feng Cai, and Hai-Peng Wang, **TGRS 2023 (under review)**
+- [Super Resolution of Airplane Target in Remote Sensing Images via A Multi Degradation Model.](https://scholar.google.com/citations?user=Wq2aViYAAAAJ&hl=en) Feng Cai, Ke-Yu Wu, He-Cheng Jia, and Feng Wang, **ICAIT 2022**
 
 # 🎖 Honors and Awards
 - *2022.10* National Scholarship (Top 1%)
@@ -41,8 +41,8 @@ My name is Feng Cai (Chinese: 蔡峰). I am now a 2nd-year postgraduate student 
 - *2020.10* The Second Prize Scholarship (Top 3%)
 
 # 📖 Educations
-- *2021.09 - 2023.03 (now)*, Master, Fudan University, Shanghai. 
+- *2021.09 - 2024.06 (now)*, Master, Fudan University, Shanghai. 
 - *2017.09 - 2021.06*, Undergraduate, Fuzhou University, Fuzhou. 
 
 # 💻 Internships
-- I am actively looking for research internship opportunities (deep/machine learning for vision tasks) now. If you are interested, welcome to drop me an email (fcai21[at]m.fudan.edu.cn). Thanks! 
+- *2024.05 - now*,summer internship at interactive entertainment group of Tencent, Shanghai.
