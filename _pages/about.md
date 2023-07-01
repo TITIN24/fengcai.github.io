@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 My name is Feng Cai (Chinese: 蔡峰). I am now a 2nd-year postgraduate student of Fudan University (Shanghai, China), advised by Prof. Feng Wang. My main research interests is in neural network structure optimization, multi-modal model, novel view synthesis, and super resolution. I enjoy partnering with others to explore new ideas and approaches. My focus is on developing innovative solutions to real-world problemsI aspire to follow in the footsteps of great researchers who have developed groundbreaking technologies.
