@@ -14,8 +14,8 @@ My name is Feng Cai (Chinese: 蔡峰). I am now a 2nd-year postgraduate student 
 
 
 # 🔥 News
-- *2023.03*: &nbsp;🎉🎉 PBVS @ CVPR 2023 Multi-modal Aerial View Object Classification Challenge - Track 1 (Ranked 1st of 123)
-- *2023.03*: &nbsp;🎉🎉 PBVS @ CVPR 2023 Multi-modal Aerial View Object Classification Challenge - Track 2 (Ranked 4th of 108)
+- *2023.03*: &nbsp;🎉🎉 PBVS @ CVPR 2023 Multi-modal Aerial View Object Classification Challenge - Track 1 (Ranked 1st of 129)
+- *2023.03*: &nbsp;🎉🎉 PBVS @ CVPR 2023 Multi-modal Aerial View Object Classification Challenge - Track 2 (Ranked 4th of 110)
 - *2023.02*: &nbsp;🎉🎉 [MEDIA REPORT](https://mp.weixin.qq.com/s/1wYjVXLSgCOOf-NfUIrglw) How the National Award is made丨Feng Cai: Striving to move forward in cross-disciplinary fields
 - *2022.08*: &nbsp;🎉🎉 [MEDIA REPORT](https://mp.weixin.qq.com/s/Hc_G3Nfvb_J290zd81l5Hg)2022 Huawei Developer Competition——Autonomous Driving Challenge (Ranked 2nd of 318)
 
