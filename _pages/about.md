@@ -38,4 +38,4 @@ My name is Feng Cai (Chinese: 蔡峰). I am now a 2nd-year postgraduate student 
 - *2017.09 - 2021.06*, Undergraduate, Fuzhou University, Fuzhou. 
 
 # 💻 Internships
-- *2024.05 - now*, summer internship at interactive entertainment group of Tencent, Shanghai.
+- *2023.05 - now*, summer internship at interactive entertainment group of Tencent, Shanghai.
